@@ -1,2 +1,4 @@
 # nathan
-my first repo
+my first repo.
+
+This is challenging, but so cool. Thanks!!!
